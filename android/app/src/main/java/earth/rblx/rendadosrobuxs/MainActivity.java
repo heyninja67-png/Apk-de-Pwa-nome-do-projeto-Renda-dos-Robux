@@ -78,7 +78,6 @@ public class MainActivity extends Activity {
             webView.loadUrl(HOME_URL);
         }
 
-        WebView.setWebContentsDebuggingEnabled(BuildConfig.DEBUG);
     }
 
     private boolean handleNavigation(WebView view, Uri uri) {
