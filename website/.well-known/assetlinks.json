@@ -1,0 +1,10 @@
+[
+  {
+    "relation":["delegate_permission/common.handle_all_urls"],
+    "target":{
+      "namespace":"android_app",
+      "package_name":"earth.rblx.rendadosrobuxs",
+      "sha256_cert_fingerprints":["C7:BE:FA:A5:90:D4:87:49:D2:C7:17:89:B4:E1:57:B0:10:3B:98:F6:75:DE:84:3B:F3:E3:17:6C:89:5C:A5:05"]
+    }
+  }
+]
